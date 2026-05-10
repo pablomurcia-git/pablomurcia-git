@@ -1,6 +1,6 @@
 ## Hi there 👋
 # 💫 About Me:
-🔭 I’m currently studing on TripleTen a course on Data Analyst.<br>🌱 I’m currently learning and practicing SQL, Python, PowerBI.<br>💬 Contact me at: pablomurciag@gmail.com.<br>👑 Fanatic to clean data to improve on any business.<br>⚡ Love to produce music.
+🔭 I’m currently studing on TripleTen a course on Data Analyst.<br>🌱 I’m currently learning and practicing SQL, Python, PowerBI.<br>💬 Contact me at: pablomurciag@gmail.com.<br>👑 Fanatic to clean data to improve on deliver efective insights for business.<br>⚡ Love to produce music.
 
 
 ## 🌐 Socials:
